@@ -1,11 +1,4 @@
-Beleza, Kewyn 🚀
-Vou refazer o `README.md` deixando ele **absurdamente melhorado**, com organização profissional, ícones, seções bem separadas, destaque para comandos, fluxo visual fácil de entender e até exemplos de execução.
 
-Aqui vai a versão “premium” do seu `.md`:
-
----
-
-````markdown
 # 🛠️ Linux System File Checker (SFC)  
 ### Equivalente ao `sfc /scannow` do Windows para Linux Mint
 
