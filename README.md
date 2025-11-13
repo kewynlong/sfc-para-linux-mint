@@ -1,4 +1,4 @@
-
+## ** Muito provavelmente não haverá mais atualizações pode ser migrado para o power script ** ##
 # 🛠️ Linux System File Checker (SFC)  
 ### Equivalente ao `sfc /scannow` do Windows para Linux Mint
 
