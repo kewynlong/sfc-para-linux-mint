@@ -164,8 +164,3 @@ Você pode usá-lo, modificá-lo e compartilhá-lo livremente.
 ---
 
 ```
-
----
-
-👉 Quer que eu melhore ainda mais e adicione **badges (selos visuais)** no topo do `.md`, tipo “Feito em Bash”, “Compatível com Linux Mint”, “Seguro para Produção”?
-```
