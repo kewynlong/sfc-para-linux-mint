@@ -160,7 +160,3 @@ coreutils
 
 Este projeto foi desenvolvido para fins educacionais e de manutenção pessoal por **Kewyn Marcelo Bueno de Souza Lima**.
 Você pode usá-lo, modificá-lo e compartilhá-lo livremente.
-
----
-sudo apt install lutris
-```
